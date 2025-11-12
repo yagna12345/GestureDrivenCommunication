@@ -1,5 +1,8 @@
-Gesture Driven Communication is an innovative computer vision project that interprets human hand gestures and converts them into meaningful commands, text, or speech. The system enables touchless communication between humans and machines — empowering accessibility, automation, and interaction using hand gestures.
-The Gesture Driven Communication project bridges the gap between humans and computers by enabling intuitive communication through gestures.
-It uses real-time hand tracking and gesture recognition powered by deep learning and computer vision.
+Gesture Driven Communication is an AI-powered system that allows users to draw on a virtual canvas using hand gestures — without touching the screen or using a physical input device.
+By detecting hand movements through a webcam, the system tracks the position of the user’s fingers and dynamically draws lines, shapes, or patterns based on their motion.
 
-This system can be used by individuals with speech or hearing impairments or in hands-free environments like robotics, virtual control systems, or IoT applications.
+This project demonstrates the power of computer vision and gesture recognition for hands-free interaction.
+The Gesture Driven Communication (Air Canvas) system enables real-time virtual drawing using hand tracking.
+It captures live video input from a webcam, detects hand landmarks using MediaPipe, and tracks the movement of specific fingers (usually the index finger) to simulate drawing on a digital canvas.
+
+The project promotes touchless interaction — useful in virtual art, education, sign language, and HCI systems.
